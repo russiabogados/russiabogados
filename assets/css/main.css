@@ -173,7 +173,7 @@ section{
 
 @media (max-width: 767px) {
 	.navbar-brand img{
-		width: 230px;
+		width: 62px;
 	}
 	.navbar-nav>li>a{
 		padding-top: 30px;
@@ -651,4 +651,5 @@ section{
 	footer, .subscribe{
 		text-align: center;
 	}
+
 }
